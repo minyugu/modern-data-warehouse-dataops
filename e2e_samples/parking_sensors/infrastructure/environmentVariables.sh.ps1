@@ -5,6 +5,7 @@ export MSYS_NO_PATHCONV=1
 
 export GITHUB_REPO="minyugu/modern-data-warehouse-dataops"
 export GITHUB_PAT_TOKEN="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"
+# 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
 export AZURE_LOCATION="eastasia"
 AZURE_SUBSCRIPTION_ID="07936935-5ab8-40b8-9c34-e097c4d462ea"
 export DEPLOYMENT_ID="gmdwd"
